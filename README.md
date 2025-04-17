@@ -1,5 +1,5 @@
 # This is the latest copy of the KAFY project. 
-This copy was last updated when pushed on Jan 2025. Continout updates will follow starting from April 2025.
+This  was last updated when pushed on Jan 2025. Continout updates will follow starting from April 2025.
 Below Commands are deprecated. README file will be updated soon....
 
 # KAFY Library
